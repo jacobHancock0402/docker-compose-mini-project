@@ -1,0 +1,1 @@
+docker run -p 8080:9090 -e SERVER_PORT=9090 fx-app-spring:1.0docker build -t fx-app-spring:1.0 .
